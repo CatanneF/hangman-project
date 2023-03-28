@@ -1,0 +1,17 @@
+{
+    "name": "hangman",
+    "version": "1.0.0",
+    "engine": {
+        "node": "^18.14"
+    },
+    "type": "module",
+    "main": "index.js",
+    "author": "Catherine Felton",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Catannefelton/hangman.git"
+    },
+    "dependencies": {
+        "readline-sync": "^1.4.10"
+    }
+}
